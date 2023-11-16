@@ -1,0 +1,35 @@
+body {
+  background-color: #fff5d9;
+}
+
+main {
+  padding: 40px 0;
+}
+
+.BannersContainer {
+  display: flex;
+  justify-content: space-evenly;
+
+  .HeroBanner__Container {
+    width: 40%;
+  }
+
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+
+    .HeroBanner__Container {
+      width: 100%;
+    }
+  }
+}
+
+.FullWidthBanner {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.HeroContainer {
+  display: flex;
+  justify-content: center;
+}

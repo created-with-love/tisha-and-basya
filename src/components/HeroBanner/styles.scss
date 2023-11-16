@@ -1,0 +1,55 @@
+.HeroBanner {
+  &__Container {
+    margin-top: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  &__Image {
+    display: block;
+    max-height: 550px;
+    object-fit: cover;
+  }
+
+  &__TextWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c95e15;
+  }
+
+  &__Text {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+  }
+
+  @media (max-width: 1800px) {
+    &__Container {
+      max-width: 1620px;
+    }
+  }
+
+  @media (max-width: 1620px) {
+    &__Container {
+      max-width: 1400px;
+    }
+  }
+
+  @media (max-width: 1240px) {
+    &__Container {
+      max-width: 960px;
+    }
+  }
+
+  @media (max-width: 960px) {
+    &__Container {
+      max-width: 768px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    &__Container {
+      max-width: 100%;
+    }
+  }
+}
