@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/tisha-and-basya/static/css/main.d9b8636d.css",
-    "main.js": "/tisha-and-basya/static/js/main.9dbd8f26.js",
+    "main.css": "/tisha-and-basya/static/css/main.4c780c06.css",
+    "main.js": "/tisha-and-basya/static/js/main.1a57d0c8.js",
+    "static/media/msg777000-220216.jpg": "/tisha-and-basya/static/media/msg777000-220216.1b87040d378336a7e9ea.jpg",
+    "static/media/msg777000-220219.jpg": "/tisha-and-basya/static/media/msg777000-220219.bb0c27df9088559521c5.jpg",
     "static/media/hero.jpg": "/tisha-and-basya/static/media/hero.f58d3a533529ce334563.jpg",
     "static/media/hero2.jpg": "/tisha-and-basya/static/media/hero2.a278b2da6083a960d205.jpg",
+    "static/media/msg777000-220224.jpg": "/tisha-and-basya/static/media/msg777000-220224.f1d1a3bdc882d2779f7f.jpg",
     "static/media/msg777000-220238.jpg": "/tisha-and-basya/static/media/msg777000-220238.93cb54cc54d80235faae.jpg",
+    "static/media/msg777000-220226.jpg": "/tisha-and-basya/static/media/msg777000-220226.9abeef74614400021b80.jpg",
     "static/media/msg777000-220230.jpg": "/tisha-and-basya/static/media/msg777000-220230.ad756f31cd52028441c7.jpg",
     "static/media/msg777000-220222.jpg": "/tisha-and-basya/static/media/msg777000-220222.629059bd3b09c31851fb.jpg",
+    "static/media/msg777000-220232.jpg": "/tisha-and-basya/static/media/msg777000-220232.af44a564c43d07dacab8.jpg",
+    "static/media/msg777000-220231.jpg": "/tisha-and-basya/static/media/msg777000-220231.ec430a6f8f9b77a6477f.jpg",
     "static/media/msg777000-220236.jpg": "/tisha-and-basya/static/media/msg777000-220236.2637befadd8ae0eaf44f.jpg",
     "static/media/msg777000-220223.jpg": "/tisha-and-basya/static/media/msg777000-220223.9864fb3b3eec049c45f9.jpg",
     "index.html": "/tisha-and-basya/index.html",
-    "main.d9b8636d.css.map": "/tisha-and-basya/static/css/main.d9b8636d.css.map",
-    "main.9dbd8f26.js.map": "/tisha-and-basya/static/js/main.9dbd8f26.js.map"
+    "main.4c780c06.css.map": "/tisha-and-basya/static/css/main.4c780c06.css.map",
+    "main.1a57d0c8.js.map": "/tisha-and-basya/static/js/main.1a57d0c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9b8636d.css",
-    "static/js/main.9dbd8f26.js"
+    "static/css/main.4c780c06.css",
+    "static/js/main.1a57d0c8.js"
   ]
 }
