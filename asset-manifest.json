@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tisha-and-basya/static/css/main.d9b8636d.css",
+    "main.js": "/tisha-and-basya/static/js/main.9dbd8f26.js",
+    "static/media/hero.jpg": "/tisha-and-basya/static/media/hero.f58d3a533529ce334563.jpg",
+    "static/media/hero2.jpg": "/tisha-and-basya/static/media/hero2.a278b2da6083a960d205.jpg",
+    "static/media/msg777000-220238.jpg": "/tisha-and-basya/static/media/msg777000-220238.93cb54cc54d80235faae.jpg",
+    "static/media/msg777000-220230.jpg": "/tisha-and-basya/static/media/msg777000-220230.ad756f31cd52028441c7.jpg",
+    "static/media/msg777000-220222.jpg": "/tisha-and-basya/static/media/msg777000-220222.629059bd3b09c31851fb.jpg",
+    "static/media/msg777000-220236.jpg": "/tisha-and-basya/static/media/msg777000-220236.2637befadd8ae0eaf44f.jpg",
+    "static/media/msg777000-220223.jpg": "/tisha-and-basya/static/media/msg777000-220223.9864fb3b3eec049c45f9.jpg",
+    "index.html": "/tisha-and-basya/index.html",
+    "main.d9b8636d.css.map": "/tisha-and-basya/static/css/main.d9b8636d.css.map",
+    "main.9dbd8f26.js.map": "/tisha-and-basya/static/js/main.9dbd8f26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9b8636d.css",
+    "static/js/main.9dbd8f26.js"
+  ]
+}
