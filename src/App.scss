@@ -33,3 +33,19 @@ main {
   display: flex;
   justify-content: center;
 }
+
+.Description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+  background-color: #d99d87;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 5px;
+  color: #fff;
+
+  p {
+    margin: 0;
+    padding: 10px 5px;
+  }
+}

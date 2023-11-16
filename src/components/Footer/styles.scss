@@ -4,14 +4,25 @@
   background-color: #924919;
   border-radius: 5px;
   color: #fff;
-  height: 50px;
   width: 100%;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 
   &__ThanksText {
     padding: 5px;
-    margin: 0;
+    margin-top: 15px;
     height: fit-content;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  &__Donate {
+    padding: 5px 15px;
+    margin-top: 10px;
+    height: fit-content;
+    font-size: 16px;
+    color: #fff5d9;
+    text-align: center;
   }
 }

@@ -7,6 +7,12 @@ import SoloTisha from './media/msg777000-220230.jpg';
 import SoloBasya from './media/msg777000-220238.jpg';
 import Hero from './media/hero.jpg';
 import Hero2 from './media/hero2.jpg';
+import SoloTisha2 from './media/msg777000-220219.jpg';
+import SoloTisha3 from './media/msg777000-220224.jpg';
+import SoloBasya2 from './media/msg777000-220231.jpg';
+import SoloTisha4 from './media/msg777000-220232.jpg';
+import SoloBasya3 from './media/msg777000-220216.jpg';
+import SoloTisha5 from './media/msg777000-220226.jpg';
 import './App.scss';
 
 function App() {
@@ -33,6 +39,25 @@ function App() {
 
         <div className="FullWidthBanner">
           <HeroBanner src={Hero2} />
+        </div>
+
+        <div className="Description">
+          <p>А це трохи фотографій із життя цих маленьких пухнастиків</p>
+        </div>
+
+        <div className="BannersContainer">
+          <HeroBanner src={SoloTisha2} />
+          <HeroBanner src={SoloTisha3} />
+        </div>
+
+        <div className="BannersContainer">
+          <HeroBanner src={SoloBasya2} />
+          <HeroBanner src={SoloTisha4} />
+        </div>
+
+        <div className="BannersContainer">
+          <HeroBanner src={SoloBasya3} />
+          <HeroBanner src={SoloTisha5} />
         </div>
       </main>
       <Footer />
